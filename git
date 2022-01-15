@@ -1,0 +1,12 @@
+git init
+
+git add kbm
+
+
+git commit -m "First Commit"
+
+git remote add origin https://github.com/kasim-alnokhatha/2.git
+
+git push
+
+git push origin master
